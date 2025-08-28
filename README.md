@@ -45,3 +45,6 @@ This project demonstrates how to use Spring Boot with Spring Data JPA and a Post
 
 # outputs:-
 <img width="521" height="367" alt="image" src="https://github.com/user-attachments/assets/d16bdcfd-f34c-41d2-a970-defb26ed4dcf" />
+<img width="509" height="356" alt="image" src="https://github.com/user-attachments/assets/e866f0b7-640b-4e9c-9ee4-46dfffb7a665" />
+<img width="507" height="280" alt="image" src="https://github.com/user-attachments/assets/935c4c45-96f9-43ae-9ed1-c59f42aa86e7" />
+
