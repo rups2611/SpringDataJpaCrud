@@ -43,4 +43,5 @@ This project demonstrates how to use Spring Boot with Spring Data JPA and a Post
   * `spring.jpa.hibernate.ddl-auto=update` → automatically creates/updates tables based on entity.
   * `spring.jpa.show-sql=true` → shows SQL queries in the console.
 
-
+# outputs:-
+<img width="521" height="367" alt="image" src="https://github.com/user-attachments/assets/d16bdcfd-f34c-41d2-a970-defb26ed4dcf" />
