@@ -44,6 +44,7 @@ This project demonstrates how to use Spring Boot with Spring Data JPA and a Post
   * `spring.jpa.show-sql=true` → shows SQL queries in the console.
 
 # outputs:-
+
 # Actual Data
 <img width="521" height="367" alt="image" src="https://github.com/user-attachments/assets/d16bdcfd-f34c-41d2-a970-defb26ed4dcf" />
 # Data after updating
